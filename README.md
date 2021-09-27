@@ -30,7 +30,7 @@
     <img src="https://img.shields.io/badge/-GIT-orange?style=for-the-badge&logo=git">
   </p>
   
-  # 🚀 Estatísticas
+  # 🚀 Estatísticas 🚀
   
   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nanepifanio&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
   <br>
