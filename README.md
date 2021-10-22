@@ -20,6 +20,14 @@
     </a>
   </div>
   
+  <p> 👇 Veja meu perfil no Codewars 👇 </p>
+  
+  <div>
+    <a href="https://www.codewars.com/users/nanepifanio">
+      <img src="https://www.codewars.com/users/nanepifanio/badges/large">
+    </a>
+  </div>
+  
   #  🧑‍💻 Tecnologias em que tenho habilidade 🧑‍💻
   
   <p>
