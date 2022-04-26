@@ -38,7 +38,7 @@
     <img src="https://img.shields.io/badge/-GIT-orange?style=for-the-badge&logo=git">
     <br>
     <img src="https://img.shields.io/badge/-TYPESCRIPT-darkblue?style=for-the-badge&logo=typescript">
-    <img src="https://img.shields.io/badge/-REACT-61dafb?style=for-the-badge&logo=react">
+    <img src="https://img.shields.io/badge/-REACT-cyan?style=for-the-badge&logo=react">
     <img src="https://img.shields.io/badge/-STYLED-gray?style=for-the-badge&logo=styled-components">
     <img src="https://img.shields.io/badge/-TAILWINDCSS-1a2f52?style=for-the-badge&logo=tailwindcss">
   </p>
