@@ -38,6 +38,7 @@
     <img src="https://img.shields.io/badge/-GIT-orange?style=for-the-badge&logo=git">
     <img src="https://img.shields.io/badge/-TYPESCRIPT-darkblue?style=for-the-badge&logo=typescript">
     <img src="https://img.shields.io/badge/-REACT-cyan?style=for-the-badge&logo=react">
+    <img src="https://img.shields.io/badge/-STYLED-gray?style=for-the-badge&logo=styled-components">
   </p>
   
   # 🚀 Estatísticas 🚀
