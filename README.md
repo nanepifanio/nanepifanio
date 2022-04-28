@@ -42,6 +42,8 @@
     <img src="https://img.shields.io/badge/-STYLED-gray?style=for-the-badge&logo=styled-components">
     <img src="https://img.shields.io/badge/-TAILWINDCSS-1a2f52?style=for-the-badge&logo=tailwindcss">
     <img src="https://img.shields.io/badge/-NPM-gray?style=for-the-badge&logo=npm">
+    <br>
+    <img src="https://img.shields.io/badge/-WEBPACK-2b3a42?style=for-the-badge&logo=webpack">
   </p>
   
   # 🚀 Estatísticas 🚀
