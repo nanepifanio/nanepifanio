@@ -12,7 +12,7 @@
     Sou graduando em Análise e Desenvolvimento de Sistemas e apaixonado por tecnologia. Estou em busca de uma oportunidade no mercado de trabalho.
   </p>
 
-  <p> 👇 Acesse meu Linkedin 👇 </p>
+  <p> 👇 Meu Linkedin 👇 </p>
   
   <div>
     <a href="https://www.linkedin.com/in/renan-epif%C3%A2nio-gon%C3%A7alves/">
@@ -20,7 +20,7 @@
     </a>
   </div>
   
-  <p> 👇 Veja meu perfil no Codewars 👇 </p>
+  <p> 👇 Meu perfil no Codewars 👇 </p>
   
   <div>
     <a href="https://www.codewars.com/users/nanepifanio">
@@ -28,7 +28,7 @@
     </a>
   </div>
   
-  #  🧑‍💻 Tecnologias em que tenho habilidade 🧑‍💻
+  #  🧑‍💻 Habilidades 🧑‍💻
   
   <p>
     <img src="https://img.shields.io/badge/-HTML-orange?style=for-the-badge&logo=html5">
@@ -41,6 +41,7 @@
     <img src="https://img.shields.io/badge/-REACT-cyan?style=for-the-badge&logo=react">
     <img src="https://img.shields.io/badge/-STYLED-gray?style=for-the-badge&logo=styled-components">
     <img src="https://img.shields.io/badge/-TAILWINDCSS-1a2f52?style=for-the-badge&logo=tailwindcss">
+    <img src="https://img.shields.io/badge/-NPM-gray?style=for-the-badge&logo=npm">
   </p>
   
   # 🚀 Estatísticas 🚀
