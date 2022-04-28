@@ -38,7 +38,7 @@
     <img src="https://img.shields.io/badge/-GIT-orange?style=for-the-badge&logo=git">
     <br>
     <img src="https://img.shields.io/badge/-TYPESCRIPT-darkblue?style=for-the-badge&logo=typescript">
-    <img src="https://img.shields.io/badge/-REACT-cyan?style=for-the-badge&logo=react">
+    <img src="https://img.shields.io/badge/-REACT-282c34?style=for-the-badge&logo=react">
     <img src="https://img.shields.io/badge/-STYLED-gray?style=for-the-badge&logo=styled-components">
     <img src="https://img.shields.io/badge/-TAILWINDCSS-1a2f52?style=for-the-badge&logo=tailwindcss">
     <img src="https://img.shields.io/badge/-NPM-gray?style=for-the-badge&logo=npm">
@@ -46,10 +46,6 @@
     <img src="https://img.shields.io/badge/-WEBPACK-2b3a42?style=for-the-badge&logo=webpack">
   </p>
   
-  # 🚀 Estatísticas 🚀
-  
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nanepifanio&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-  <br>
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nanepifanio&layout=compact&hide=php,java&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
   
