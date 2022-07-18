@@ -9,7 +9,7 @@
   </a>
 
   <p>
-    Sou graduando em Análise e Desenvolvimento de Sistemas e apaixonado por tecnologia. Estou em busca de uma oportunidade no mercado de trabalho.
+    Sou graduando em Análise e Desenvolvimento de Sistemas e estou em busca de uma oportunidade no mercado de trabalho como desenvolvedor front-end.
   </p>
 
   <p> 👇 Meu Linkedin 👇 </p>
