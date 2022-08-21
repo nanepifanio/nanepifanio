@@ -46,6 +46,7 @@
     <img src="https://img.shields.io/badge/-NPM-gray?style=for-the-badge&logo=npm">
     <br>
     <img src="https://img.shields.io/badge/-WEBPACK-2b3a42?style=for-the-badge&logo=webpack">
+    <img src="https://img.shields.io/badge/-REDUX-764abc?style=for-the-badge&logo=redux">
   </p>
   
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nanepifanio&layout=compact&hide=php,java&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
