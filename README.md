@@ -9,7 +9,7 @@
   </a>
 
   <p>
-    Sou graduando em Análise e Desenvolvimento de Sistemas e estou em busca de uma oportunidade no mercado de trabalho como desenvolvedor front-end.
+    Sou graduando em Análise e Desenvolvimento de Sistemas e Desenvolvedor Front-End.
   </p>
 
   <p> 👇 Meu Linkedin 👇 </p>
