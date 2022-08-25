@@ -9,7 +9,7 @@
   </a>
 
   <p>
-    Sou graduando em Análise e Desenvolvimento de Sistemas e Desenvolvedor Front-End.
+    Curso Análise e Desenvolvimento de Sistemas e atualmente sou Estagiário em Desenvolvimento Front-End na Tasken, onde atuo utilizando ReactJS e Typescript principalmente.
   </p>
 
   <p> 👇 Meu Linkedin 👇 </p>
